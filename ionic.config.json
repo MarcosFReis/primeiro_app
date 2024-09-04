@@ -1,0 +1,7 @@
+{
+  "name": "tarefa1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
