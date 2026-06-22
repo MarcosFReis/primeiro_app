@@ -13,5 +13,5 @@ Dentro do time, assumi a parte técnica em duas frentes cruciais do sistema:
 * **Firebase:** Integração com serviços de infraestrutura em nuvem para gerenciamento do app.
 * **Consumo de APIs:** Arquitetura de consumo e tratamento de payloads de serviços externos em tempo real.
 
-##  Aprendizados e Soft Skills
-Mais do que o desafio técnico de arquitetar interfaces com Ionic e TypeScript, o grande diferencial deste projeto foi a dinâmica de trabalho em equipe. Sendo um grupo de apenas 3 pessoas, conseguimos dividir as tarefas com máxima eficiência, resolver gargalos de integração juntos e manter um fluxo de comunicação transparente e ágil do início ao fim.
+##  Aprendizados 
+Mais do que o desafio técnico de arquitetar interfaces com Ionic e TypeScript, o grande diferencial deste projeto foi a dinâmica de trabalho em equipe. Durante o projeto, tivemos que mudar de idéia algumas vezes devido a conectividade das Apis que estávamos testando. Sendo um grupo de apenas 3 pessoas, conseguimos dividir as tarefas com máxima eficiência, resolver gargalos de integração juntos e manter um fluxo de comunicação transparente e ágil do início ao fim.
